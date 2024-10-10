@@ -1,0 +1,14 @@
+C:\Users\kukli\Desktop\CS projects\cw1_1\bin\Debug\net8.0\cw1_1.exe
+C:\Users\kukli\Desktop\CS projects\cw1_1\bin\Debug\net8.0\cw1_1.deps.json
+C:\Users\kukli\Desktop\CS projects\cw1_1\bin\Debug\net8.0\cw1_1.runtimeconfig.json
+C:\Users\kukli\Desktop\CS projects\cw1_1\bin\Debug\net8.0\cw1_1.dll
+C:\Users\kukli\Desktop\CS projects\cw1_1\bin\Debug\net8.0\cw1_1.pdb
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\cw1_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\cw1_1.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\cw1_1.AssemblyInfo.cs
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\cw1_1.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\cw1_1.dll
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\refint\cw1_1.dll
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\cw1_1.pdb
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\cw1_1.genruntimeconfig.cache
+C:\Users\kukli\Desktop\CS projects\cw1_1\obj\Debug\net8.0\ref\cw1_1.dll
