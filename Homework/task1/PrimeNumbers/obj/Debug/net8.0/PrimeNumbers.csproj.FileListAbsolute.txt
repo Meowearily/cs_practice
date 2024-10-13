@@ -1,0 +1,15 @@
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.exe
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.deps.json
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.runtimeconfig.json
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.dll
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\bin\Debug\net8.0\PrimeNumbers.pdb
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.sourcelink.json
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.dll
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\refint\PrimeNumbers.dll
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.pdb
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\kukli\Desktop\CS projects\homework\task1\PrimeNumbers\obj\Debug\net8.0\ref\PrimeNumbers.dll
