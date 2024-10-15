@@ -6,7 +6,7 @@ System.Numerics.BigInteger temp;
 
 if (number == 0)
 {
-    Console.WriteLine("Факториал от 0 равен 0, число Фибоначчи с номером 0 равно 0");
+    Console.WriteLine("Факториал от 0 равен 1, число Фибоначчи с номером 0 равно 0");
 } else
 {
     Factorial solverFa = new Factorial(number);
