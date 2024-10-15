@@ -1,0 +1,15 @@
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\bin\Debug\net8.0\Hypothesis.exe
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\bin\Debug\net8.0\Hypothesis.deps.json
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\bin\Debug\net8.0\Hypothesis.runtimeconfig.json
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\bin\Debug\net8.0\Hypothesis.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\bin\Debug\net8.0\Hypothesis.pdb
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\Hypothesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\Hypothesis.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\Hypothesis.AssemblyInfo.cs
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\Hypothesis.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\Hypothesis.sourcelink.json
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\Hypothesis.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\refint\Hypothesis.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\Hypothesis.pdb
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\Hypothesis.genruntimeconfig.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task2.3\Hypothesis\obj\Debug\net8.0\ref\Hypothesis.dll
