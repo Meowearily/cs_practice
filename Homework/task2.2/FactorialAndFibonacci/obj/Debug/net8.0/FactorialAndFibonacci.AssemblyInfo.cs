@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FactorialAndFibonacci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f847c818cf44c7e6a49cd5ad827892b0aad955fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9213a7f4c55f5c885353119f5b597f7ce785bccf")]
 [assembly: System.Reflection.AssemblyProductAttribute("FactorialAndFibonacci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FactorialAndFibonacci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
