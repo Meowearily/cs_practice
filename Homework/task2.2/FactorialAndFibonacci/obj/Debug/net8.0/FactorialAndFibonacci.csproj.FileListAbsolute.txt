@@ -1,0 +1,15 @@
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\bin\Debug\net8.0\FactorialAndFibonacci.exe
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\bin\Debug\net8.0\FactorialAndFibonacci.deps.json
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\bin\Debug\net8.0\FactorialAndFibonacci.runtimeconfig.json
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\bin\Debug\net8.0\FactorialAndFibonacci.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\bin\Debug\net8.0\FactorialAndFibonacci.pdb
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\FactorialAndFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\FactorialAndFibonacci.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\FactorialAndFibonacci.AssemblyInfo.cs
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\FactorialAndFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\FactorialAndFibonacci.sourcelink.json
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\FactorialAndFibonacci.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\refint\FactorialAndFibonacci.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\FactorialAndFibonacci.pdb
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\FactorialAndFibonacci.genruntimeconfig.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task2.2\FactorialAndFibonacci\obj\Debug\net8.0\ref\FactorialAndFibonacci.dll
