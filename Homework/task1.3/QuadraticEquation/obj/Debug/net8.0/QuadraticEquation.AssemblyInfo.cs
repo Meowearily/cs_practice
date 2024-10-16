@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuadraticEquation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04942a905803f6afe7ab938b250b5e85fed2cb9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16725a578574c6b6d7f5426a709413dee3af7033")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuadraticEquation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuadraticEquation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

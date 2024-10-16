@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.1\\PrimeNumbers\\PrimeNumbers.csproj",
-      "projectName": "PrimeNumbers",
-      "projectPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.1\\PrimeNumbers\\PrimeNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2.4\\BubbleSort\\BubbleSort.csproj",
+      "projectName": "BubbleSort",
+      "projectPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2.4\\BubbleSort\\BubbleSort.csproj",
       "packagesPath": "C:\\Users\\kukli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.1\\PrimeNumbers\\obj\\",
+      "outputPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2.4\\BubbleSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

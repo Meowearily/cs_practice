@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2\\QuadraticEquation\\QuadraticEquation.csproj",
+      "projectUniqueName": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.3\\QuadraticEquation\\QuadraticEquation.csproj",
       "projectName": "QuadraticEquation",
-      "projectPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2\\QuadraticEquation\\QuadraticEquation.csproj",
+      "projectPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.3\\QuadraticEquation\\QuadraticEquation.csproj",
       "packagesPath": "C:\\Users\\kukli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2\\QuadraticEquation\\obj\\",
+      "outputPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.3\\QuadraticEquation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

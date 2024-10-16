@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.3\\QuadraticEquation\\QuadraticEquation.csproj": {}
+    "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2.4\\BubbleSort\\BubbleSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.3\\QuadraticEquation\\QuadraticEquation.csproj": {
+    "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2.4\\BubbleSort\\BubbleSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.3\\QuadraticEquation\\QuadraticEquation.csproj",
-        "projectName": "QuadraticEquation",
-        "projectPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.3\\QuadraticEquation\\QuadraticEquation.csproj",
+        "projectUniqueName": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2.4\\BubbleSort\\BubbleSort.csproj",
+        "projectName": "BubbleSort",
+        "projectPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2.4\\BubbleSort\\BubbleSort.csproj",
         "packagesPath": "C:\\Users\\kukli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task1.3\\QuadraticEquation\\obj\\",
+        "outputPath": "C:\\Users\\kukli\\Desktop\\CS projects\\Homework\\task2.4\\BubbleSort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
