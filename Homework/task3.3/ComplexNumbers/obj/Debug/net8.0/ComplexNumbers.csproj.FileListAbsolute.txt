@@ -1,0 +1,15 @@
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.exe
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.deps.json
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.runtimeconfig.json
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\bin\Debug\net8.0\ComplexNumbers.pdb
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.AssemblyInfo.cs
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.sourcelink.json
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\refint\ComplexNumbers.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.pdb
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ComplexNumbers.genruntimeconfig.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task3.3\ComplexNumbers\obj\Debug\net8.0\ref\ComplexNumbers.dll

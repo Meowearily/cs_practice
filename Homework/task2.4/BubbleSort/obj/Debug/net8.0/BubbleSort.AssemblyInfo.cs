@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BubbleSort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73ce22fa244e887e6766150d6b66e2dc4a6a4458")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a009700b024a6d4468d21188f4d432e894d7237b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BubbleSort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BubbleSort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
