@@ -1,0 +1,15 @@
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\SInTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\SInTable.AssemblyInfoInputs.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\SInTable.AssemblyInfo.cs
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\SInTable.csproj.CoreCompileInputs.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\SInTable.sourcelink.json
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\bin\Debug\net8.0\SInTable.exe
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\bin\Debug\net8.0\SInTable.deps.json
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\bin\Debug\net8.0\SInTable.runtimeconfig.json
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\bin\Debug\net8.0\SInTable.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\bin\Debug\net8.0\SInTable.pdb
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\SInTable.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\refint\SInTable.dll
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\SInTable.pdb
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\SInTable.genruntimeconfig.cache
+C:\Users\kukli\Desktop\CS projects\Homework\task11.1\SInTable\obj\Debug\net8.0\ref\SInTable.dll
