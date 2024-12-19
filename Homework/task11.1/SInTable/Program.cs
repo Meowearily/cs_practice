@@ -1,5 +1,5 @@
 ﻿using System;
 
-Sinus solver = new Sinus();
+//Sinus solver = new Sinus();
 
-solver.Print();
+//solver.Print();
