@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComplexNumbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a009700b024a6d4468d21188f4d432e894d7237b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3987f33a17255ba92abcd96256e1ad8516e61fd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComplexNumbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComplexNumbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

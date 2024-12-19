@@ -2,54 +2,63 @@
 
 class ComplexNumber
 {
-    double a, b;
-    public ComplexNumber(double a, double b)
+    double Re, Im;
+    public ComplexNumber(double Re, double Im)
     {
-        this.a = a;
-        this.b = b;
+        this.Re = Re;
+        this.Im = Im;
     }
-    //public ComplexNumber(double a, double b, double c, double d)
-    //{
-    //    this.a = a;
-    //    this.b = b;
-    //    this.c = c;
-    //    this.d = d;
-    //}
 
-    public ComplexNumber ComplexSum(ComplexNumber other)
+    public override string ToString()
     {
-        return new ComplexNumber(a + other.a, b + other.b);
-        //Console.WriteLine($"Сумма: {a + other.a} + ({b + other.b})i");
+        return String.Format("{0:F3}+{1:F3}i", Re, Im);
     }
-    public void ComplexSubtraction(double a, double b, double c, double d)
-    {
-        Console.WriteLine($"Разность: {a - c} + ({b - d})i");
-    }
-    public void ComplexMupltiplication(double a, double b, double c, double d)
-    {
-        Console.WriteLine($"Умножение: {a*c - b*d} + ({a*d + b*c})i");
-    }
-    public void ComplexDivision(double a, double b, double c, double d)
-    {
-        Console.WriteLine($"Деление: {(a*c + b*d)/(c*c+d*d)} + ({(b*c - a*d) / (c * c + d * d)})i");
-    }
-    public void ComplexModule(double a, double b)
-    {
-        Console.WriteLine($"Модуль: {Math.Sqrt(a*a+b*b)}");
-    }
-    public void ComplexAngle(double a, double b)
-    {
-        Console.WriteLine($"Угол: {Math.Atan(b/a)}");
-    }
-    public void ComplexPow(double a, double b, double k)
-    {
-        double module = Math.Sqrt(a*a + b*b);
-        double angle = b / a;
 
-        Console.WriteLine($"Возведение в степень: {a + c} + ({b + d})i");
-    }
-    public void ComplexSqrt(double a, double b, double k)
+
+    public static ComplexNumber operator -(ComplexNumber first) => new ComplexNumber(-first.Re, -first.Im);
+
+    public static ComplexNumber operator +(ComplexNumber first, ComplexNumber second) 
+        => new ComplexNumber(first.Re+second.Re, first.Im+second.Im);
+
+    public static ComplexNumber operator -(ComplexNumber first, ComplexNumber second)
+        => new ComplexNumber(first.Re - second.Re, first.Im - second.Im);
+
+    public static ComplexNumber operator *(ComplexNumber first, ComplexNumber second)
+        => new ComplexNumber(first.Re*second.Re - first.Im*second.Im, first.Re*second.Im + first.Im*second.Re);
+
+    public static ComplexNumber operator /(ComplexNumber first, ComplexNumber second)
     {
-        Console.WriteLine($"Извлечение корня: {a + c} + ({b + d})i");
+        double temp = Abs(second);
+        return new ComplexNumber((first.Re * second.Re + first.Im * second.Im) / temp, (first.Im * second.Re - first.Re * second.Im) / temp);
     }
+
+    public static double Abs(ComplexNumber first) => Math.Sqrt(first.Re*first.Re + first.Im*first.Im);
+
+    public static double Angle(ComplexNumber first) {
+        if (first.Re == 0)
+        {
+            if (first.Im >= 0) return Math.PI / 2;
+            else return 3 * Math.PI / 2;
+        }
+        else if (first.Re > 0)
+        {
+            if (first.Im >= 0) return Math.Atan(first.Im / first.Re);
+            else return Math.Atan(first.Im / first.Re) + 2 * Math.PI;
+        }
+        else return Math.Atan(first.Im / first.Re) + Math.PI;
+    }
+
+    public static ComplexNumber FromTrigonometric(double mod, double angl)
+        => new ComplexNumber(mod * Math.Cos(angl), mod * Math.Sin(angl));
+
+    public static ComplexNumber Pow(ComplexNumber first, double k)
+    {
+        double module = Abs(first);
+        double fi = Angle(first);
+
+        return FromTrigonometric(Math.Pow(module, k), k*fi);
+    }
+
+    public static ComplexNumber Sqrt(ComplexNumber first, double k)
+        => Pow(first, 1 / k);
 }
